@@ -4,7 +4,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-FFD43B?style=for-the-badge&logo=php&logoColor=blue)
 ![Forks](https://img.shields.io/github/forks/Albert1915/CFG_Parsing?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/Albert1915/CFG_Parsing?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Albert1915/VirTic?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Albert1915/CFG_Parsing?style=for-the-badge)
 
 Welcome to VirTic, an innovative cinema ticket purchasing system!
