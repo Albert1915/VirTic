@@ -52,7 +52,7 @@ Thank you for using VirTic! Enjoy your moviegoing experience!
   <tr>
     <td align="center"><a href="https://github.com/Albert1915"><img src="https://avatars.githubusercontent.com/u/76970766?s=400&u=adf4015762046d3e3ab4178b48366719243df2fc&v=4" width="150px;" alt=""/><br><sub><b>Albert Okario</b></sub></td> 
     <td align="center"><a href="https://github.com/gedeapriana"><img src="https://avatars.githubusercontent.com/u/50385762?v=4" width="150px;" alt=""/><br><sub><b>I Komang Gede Apriana</b></sub></td>
-    <td align="center"><a href="https://github.com/wisnuwdn"><img src="https://avatars.githubusercontent.com/u/91248099?v=4" width="150px;" alt=""/><br><sub><b>I Putu Wisnu Wardhana</b></sub></td>
+    <td align="center"><a href="https://github.com/wisnuwdn"><img src="https://avatars.githubusercontent.com/u/91248099?v=4" width="150px;" alt=""/><br><sub><b>I Gusti Putu Wisnu Wardhana</b></sub></td>
     <td align="center"><a href=""><img src="" width="150px;" alt=""/><br><sub><b>Kenny Belle Lesmana</b></sub></td>
   </tr>
 </table>
